@@ -1,0 +1,13 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 7693-465C
+
+ Directory of c:\Checkout\GIT_REPO\javaprogram
+
+11/09/2017  11:21 AM    <DIR>          .
+11/09/2017  11:21 AM    <DIR>          ..
+11/08/2017  10:40 PM               437 HelloWorld.class
+11/08/2017  10:33 PM               238 HelloWorld.java
+11/09/2017  09:57 AM                36 README.md
+11/09/2017  11:21 AM                 0 test.txt
+               4 File(s)            711 bytes
+               2 Dir(s)  229,597,204,480 bytes free
